@@ -1,0 +1,16 @@
+C:\Users\BenoitThibault\source\repos\WebServer\bin\Debug\net5.0\WebServer.exe
+C:\Users\BenoitThibault\source\repos\WebServer\bin\Debug\net5.0\WebServer.deps.json
+C:\Users\BenoitThibault\source\repos\WebServer\bin\Debug\net5.0\WebServer.runtimeconfig.json
+C:\Users\BenoitThibault\source\repos\WebServer\bin\Debug\net5.0\WebServer.runtimeconfig.dev.json
+C:\Users\BenoitThibault\source\repos\WebServer\bin\Debug\net5.0\WebServer.dll
+C:\Users\BenoitThibault\source\repos\WebServer\bin\Debug\net5.0\ref\WebServer.dll
+C:\Users\BenoitThibault\source\repos\WebServer\bin\Debug\net5.0\WebServer.pdb
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\WebServer.csprojAssemblyReference.cache
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\WebServer.AssemblyInfo.cs
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\WebServer.dll
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\ref\WebServer.dll
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\WebServer.pdb
+C:\Users\BenoitThibault\source\repos\WebServer\obj\Debug\net5.0\WebServer.genruntimeconfig.cache
