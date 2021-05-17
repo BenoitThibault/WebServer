@@ -1,0 +1,17 @@
+;aiu;
+
+[Update]
+Name = Your Application
+ProductVersion = 2.0.0.0
+URL = http://www.example.com/downloads/WebServerUpdates20.exe
+Size = 3759088
+ReleaseDate = 17/05/2021
+SHA256 = 34DA19CB3B68385E8A101E19B09E763DCBB6AE5D157732A3604A1AC43C608AF6
+MD5 = b5ab65d3c91b2f676e9ed6b8ad1760bf
+ServerFileName = WebServerUpdates20.exe
+RegistryKey = HKUD\Software\Janus Engineering\Your Application\Version
+Version = 2.0.0.0
+Description = New version for NX Open project 
+Feature = Nouvelle fraise 
+Enhancement = Vitesse de coupe améliorée
+BugFix = Bug des champ-freins détectés comme des côtés
